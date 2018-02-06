@@ -10,6 +10,7 @@
     {
       "name" : "Barksalot",
       "species" : "Dog",
+      "favFoods" : "",
       "birthYear" : 2008,
       "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
     },
